@@ -3,3 +3,7 @@
 *.dll
 *.dylib
 *.exe
+*.bc
+*.js
+package.json
+.npmignore
